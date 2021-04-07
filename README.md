@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/leahfern/leahfern/main/Copy%20of%20Black%20and%20Yellow%20Typographic%20Art%20%26%20Design%20Logo.svg "Header")]
+![Header](https://raw.githubusercontent.com/leahfern/leahfern/main/Copy%20of%20Black%20and%20Yellow%20Typographic%20Art%20%26%20Design%20Logo.svg "Header")
 
 ### Hi there 👋
 
