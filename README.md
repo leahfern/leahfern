@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 - 🌳  I’m currently working on
-  - [Valley For All](https://www.valleyforall.org)
+  - [Valley For All](https://github.com/leahfern/valley-for-all)
   - [Emotion Tracker](https://github.com/Lambda-School-Labs/bg-emotion-tracker-fe-b)
 
 - 🌱  I’m currently learning Python
