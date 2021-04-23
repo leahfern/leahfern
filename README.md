@@ -3,13 +3,15 @@
 ### Hi there 👋
 - 🌳  I’m currently working on
   - [Valley For All](https://www.valleyforall.org)
-  - React Shopping List App (coming soon™️)
+  - [Emotion Tracker](https://github.com/Lambda-School-Labs/bg-emotion-tracker-fe-b)
 
 - 🌱  I’m currently learning Python
 
-- 🤔  I’m looking for developers willing to do informational interviews
+- 🧠  I love learning something new everyday - getting paid to do it is a bonus!
 
-- 💬  Ask me about 🏚️  HTML / 🖌️  CSS / 💡  JavaScript / 🏡  React / 🔌  Redux / 📞  ContextAPI
+- 🤔  I’m looking for developers or project managers willing to do informational interviews
+
+- 💬  Ask me about 🏚️  HTML / 🖌️  CSS / 💡  JavaScript / 🏡  React / 🔌  Redux / 📞  ContextAPI / ☕ Java Spring
 
 <!--
 **leahfern/leahfern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
