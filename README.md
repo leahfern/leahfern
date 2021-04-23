@@ -1,6 +1,9 @@
 ![Header](https://raw.githubusercontent.com/leahfern/leahfern/main/Copy%20of%20Black%20and%20Yellow%20Typographic%20Art%20%26%20Design%20Logo.svg "Header")
 
-### Hi there 👋
+### Hola 👋
+
+I'm Leah! After an extended journey in the travel industry, I am boarding my next flight as a Web Developer. My team members describe me as collaborative, innovative, and committed. I love to learn and improve daily. I am also passionate about giving back and fill up my "free" time by leading several volunteer initiatives. 
+
 - 🌳  I’m currently working on
   - [Valley For All](https://github.com/leahfern/valley-for-all)
   - [Emotion Tracker](https://github.com/Lambda-School-Labs/bg-emotion-tracker-fe-b)
