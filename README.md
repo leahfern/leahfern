@@ -2,17 +2,17 @@
 
 ### Hola 👋
 
-I'm Leah! After an extended journey in the travel industry, I am boarding my next flight as a Web Developer. My team members describe me as collaborative, innovative, and committed. I love to learn and improve daily. I am also passionate about giving back and fill up my "free" time by leading several volunteer initiatives. 
+I'm Leah! I love to learn daily. I am also passionate about giving back and fill up my "free" time by leading several volunteer initiatives. 
 
 - 🌳  I’m currently contributing to various open source projects
 
-- 🌱  I’m learning Python
+- 🌱  I’m learning about KPI management
 
 - 🧠  I love learning something new everyday - getting paid to do it is a bonus!
 
 - 🤔  I’m looking for developers or project managers willing to do informational interviews
 
-- 💬  Ask me about 🏚️  HTML / 🖌️  CSS / 💡  JavaScript / 🏡  React / 🔌  Redux / 📞  ContextAPI / ☕ Java Spring
+- 💬  Ask me about 💡 JavaScript / 🏡  React / 🔌  Redux / 📱 React Native / ✅ Typescript / 🏪 Zustand / 📺 Video streaming / ▶️ Yospace
 
 <!--
 **leahfern/leahfern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
